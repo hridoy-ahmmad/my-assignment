@@ -225,3 +225,55 @@ header{
 .optional-part img{
     border-radius: 48px;
 }
+/* optional part ends */
+
+
+/* Form starts from here */
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 71px;
+}
+.form h1{
+    font-size: 97px;
+}
+.form label{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 20px;
+    
+
+}
+.form-section-col-2 input[type="email"] {
+    display: block;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.176);
+    padding: 20px 0 20px 32px;
+    width: 497px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.form-section-col-2 input[type="text"] {
+    display: block;
+    background-color: #fff;
+    padding: 20px 0 20px 32px;
+     width: 497px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.176);
+}
+.form-section-col-2 textarea {
+    display: block;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.176);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+form .btn{
+    width: 100%;
+    margin-top: 20px;
+}
