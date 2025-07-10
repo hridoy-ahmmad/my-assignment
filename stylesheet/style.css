@@ -2,6 +2,7 @@ body{
     background-color: #f5f8ff;
     padding: 0;
     margin: 0;
+    font-family: "Raleway", sans-serif;
     
 }
 /* shared Style starts here*/
@@ -51,3 +52,17 @@ header{
     width: auto;
     cursor: pointer;
 }
+.action{
+    text-align: center;
+    margin-top: 160px;
+}
+.action h1{
+    font-size: 65px;
+    color: #252432;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.action .btn{
+    margin-bottom: 150px;
+}
+/* header ends here*/
