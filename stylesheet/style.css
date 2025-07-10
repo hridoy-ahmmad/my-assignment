@@ -1,0 +1,30 @@
+body{
+    background-color: #f5f8ff;
+    padding: 0;
+    margin: 0;
+}
+/* shared Style */
+.section{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+
+
+/* header */
+header{
+    background-image: url(/assests/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 150px;
+}
+.header img{
+    height: 44px;
+    width: auto;
+}
