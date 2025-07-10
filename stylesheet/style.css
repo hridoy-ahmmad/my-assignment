@@ -42,7 +42,7 @@ body{
 
 /* header starts here*/
 header{
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(/assets/hero-bg.png);
     background-repeat: no-repeat;
     background-size:cover;
 }
