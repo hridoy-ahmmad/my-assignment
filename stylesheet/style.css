@@ -255,6 +255,7 @@ header{
     border-radius: 10px;
     margin-bottom: 20px;
     margin-top: 10px;
+    font-family: 'Inter' , serif;
 }
 .form-section-col-2 input[type="text"] {
     display: block;
@@ -265,15 +266,55 @@ header{
     margin-top: 10px;
     margin-bottom: 20px;
     border: 1px solid rgba(0, 0, 0, 0.176);
+    font-family: 'Inter' , serif;
 }
 .form-section-col-2 textarea {
     display: block;
+    font-family: 'Inter' , serif;
     background-color: #fff;
     border: 1px solid rgba(0, 0, 0, 0.176);
     border-radius: 10px;
     margin-top: 10px;
+    padding: 20px 0 20px 32px;
+    
 }
 form .btn{
     width: 100%;
     margin-top: 20px;
+    padding: 20px 0;
 }
+/* Form starts from here */
+
+
+/* -----footer starts form here---- */
+footer{
+    background-color: #fff;
+    width: 100%;
+    align-items: center;
+    padding: 105px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.101);
+}
+.footer{
+    width: 530px;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer img{
+    height: 100px;
+    cursor: pointer;
+}
+.footer p{
+    font-size: 16px;
+    color: #8987A1;
+}
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+}
+.footer ul a{
+    text-decoration: none;
+    list-style: none;
+    color: #8987A1;
+    font-family: 'Inter' , serif;
+}
+/* -----footer ends form here---- */
