@@ -52,17 +52,18 @@ header{
     width: auto;
     cursor: pointer;
 }
-.action{
+.banner{
     text-align: center;
     margin-top: 160px;
 }
-.action h1{
+.banner h1{
     font-size: 65px;
     color: #252432;
     font-weight: bold;
     margin-bottom: 40px;
 }
-.action .btn{
+.banner .btn{
     margin-bottom: 150px;
 }
-/* header ends here*/
+/* -----header ends here-----/
+
