@@ -304,7 +304,7 @@ footer{
     text-align: center;
 }
 .footer img{
-    height: 100px;
+    height: 80px;
     cursor: pointer;
 }
 .footer p{
@@ -320,5 +320,9 @@ footer{
     list-style: none;
     color: #8987A1;
     font-family: 'Inter' , serif;
+    transition: 0.3s ease;
+}
+.footer ul a:hover{
+   transform:translateY(-5px);
 }
 /* -----footer ends form here---- */
